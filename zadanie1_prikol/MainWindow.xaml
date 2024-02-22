@@ -7,10 +7,14 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+<<<<<<< HEAD
         <Button Height="40" Width="50" Background="Red">
             <Button Background="Yellow" Width="25" Height="10">
                 
             </Button>
         </Button>
+=======
+        
+>>>>>>> mathbranch
     </Grid>
 </Window>

@@ -35,6 +35,7 @@ namespace zadanie1_prikol
             }
             return res;
         }
+<<<<<<< HEAD
 
         static double CalculateHypothenuse(int a, int b, int angle)
         {
@@ -42,5 +43,7 @@ namespace zadanie1_prikol
 
             return Math.Sqrt(c);
         }
+=======
+>>>>>>> mathbranch
     }
 }
